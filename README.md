@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ Oii, Eu sou a Alanna! ✨
+# ✨ Oii, Eu sou a Alanna! :crescent_moon: ✨
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alannapaiva)](https://github.com/alannapaiva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/)
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=#E4405F&link=https://codepen.io/paivalanna)](https://codepen.io/paivalanna)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmail&logoColor=#E4405F&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva1@hotmail.com)
 
-   <h4>Aspirante a dançarina e musicista, graduanda em Engenharia da Computação, aprendendo sempre um pouco de tudo e atualmente estudando tecnologias para Desenvolvimento Web.</h4>
+   ### Aspirante a dançarina e musicista, graduanda em Engenharia da Computação, aprendendo sempre um pouco de tudo e atualmente estudando tecnologias para Desenvolvimento Web. :sparkling_heart: 
 
 - [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
