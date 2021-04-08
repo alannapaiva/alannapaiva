@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmail&logoColor=#E4405F&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva1@hotmail.com)
 
 ### Sobre mim
-   <h2>Aspirante a dançarina e musicista, graduanda em Engenharia da Computação, aprendendo sempre um pouco de tudo e atualmente estudando Desenvolvimento Web.</h2>
+   <h4>Aspirante a dançarina e musicista, graduanda em Engenharia da Computação, aprendendo sempre um pouco de tudo e atualmente estudando Desenvolvimento Web.</h4>
 
 - [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
