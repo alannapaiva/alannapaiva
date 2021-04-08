@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨ Oii, Eu sou a Alanna! :crescent_moon:
+## <h2 align="center"> ✨ Oii, Eu sou a Alanna! :crescent_moon:</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alannapaiva)](https://github.com/alannapaiva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/)
