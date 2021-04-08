@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=#E4405F&link=https://codepen.io/paivalanna)](https://codepen.io/paivalanna)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmail&logoColor=#E4405F&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva1@hotmail.com)
 
-### Sobre mim
    <h4>Aspirante a dançarina e musicista, graduanda em Engenharia da Computação, aprendendo sempre um pouco de tudo e atualmente estudando Desenvolvimento Web.</h4>
 
 - [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
