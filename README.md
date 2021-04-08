@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Oii, Eu sou a Alanna! 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alannapaiva)](https://github.com/alannapaiva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/)
+
+
+### Sobre mim
+   Aspirante a dançarina e musicista, graduanda em Engenharia da Computação, aprendendo sempre um pouco de tudo e atualmente estudando Desenvolvimento Web. 
+
+- [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
