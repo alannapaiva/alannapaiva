@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 - [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alannapaiva&layout=compact)](https://github.com/alannapaiva/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alannapaiva&langs_count=8)](https://github.com/alannapaiva/github-readme-stats)
