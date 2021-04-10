@@ -26,3 +26,5 @@ Here are some ideas to get you started:
  Aspirante a dançarina e musicista :dancer:, graduanda em Engenharia da Computação :mortar_board:, aprendendo sempre um pouco de tudo, viciada em hobbies e atualmente estudando tecnologias para Desenvolvimento Web. :computer::sparkling_heart: 
 
 - [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
