@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=#E4405F&link=https://codepen.io/paivalanna)](https://codepen.io/paivalanna)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmail&logoColor=#E4405F&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva1@hotmail.com)
 
-### Sobre mim
+### Sobre mim 
  Aspirante a dançarina e musicista, graduanda em Engenharia da Computação :mortar_board:, aprendendo sempre um pouco de tudo, viciada em hobbies e atualmente estudando tecnologias para Desenvolvimento Web. :computer::purple_heart:
 
 - [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it.
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alannapaiva" alt="alanna" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alannapaiva&layout=compact)](https://github.com/alannapaiva/github-readme-stats)
 
