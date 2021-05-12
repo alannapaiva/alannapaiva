@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### <samp>  I'm Alanna Paiva, a 22 years old, Computer Engineering at Federal University of Ceará </samp>
 
-<samp> Also as a Jazz dancer in her spare time </samp>
+<samp> Also as a Jazz dancer in my spare time </samp>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alannapaiva" alt="alanna" /></p>
 
 ###
