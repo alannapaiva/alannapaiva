@@ -40,6 +40,10 @@ And these are my known technologies:
 ##
 
 You can also find me on...
+<!--
+[![Linkedin Badge](<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/))"/> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alannapaiva1@hotmail.com)"/> <img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://codepen.io/paivalanna)"/> -->
 
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)"/> <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alannapaiva1@hotmail.com)"/> <img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://codepen.io/paivalanna)"/> 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/paivalanna)](https://codepen.io/paivalanna)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva1@hotmail.com)
 
