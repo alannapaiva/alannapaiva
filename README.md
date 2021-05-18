@@ -48,5 +48,5 @@ You can also find me on...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/paivalanna)](https://codepen.io/paivalanna)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva1@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva6@gmail.com)
 
