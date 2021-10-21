@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ###
  
 - :dart: My main focus is in web development
-- :books: I'm currently studying JavaScript, HTML, CSS and Python.
+- :books: I'm currently studying JavaScript, HTML5, CSS3 and Python.
 - 💬 I like watching movies and series, and sometimes I read or playing something game.
 <!-- [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it. -->
 
