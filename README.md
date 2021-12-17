@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Hey! :wave::crescent_moon:</h2>
 
 
-### <samp>  I'm Alanna Paiva, a 22 years old, Computer Engineering at Federal University of Ceará </samp>
+### <samp>  I'm Alanna Paiva, a 23 years old, Computer Engineering at Federal University of Ceará </samp>
 
 <samp> Also as a Jazz dancer in my spare time </samp>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alannapaiva" alt="alanna" /></p> -->
