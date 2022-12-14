@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ###
  
 - :dart: My main focus is in web and mobile development
-- :books: I'm currently studying JavaScript, HTML5, CSS3, React and Python.
+- :books: I'm currently studying JavaScript, Typescript, HTML5, CSS3, ReactJS, React Native, NodeJS and Python.
 - 💬 I like watching movies and series, and sometimes I read or playing something game.
 <!-- [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it. -->
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 And these are my known technologies:
 
-<img src="https://img.shields.io/badge/-HTML-D2691E" /> <img src="https://img.shields.io/badge/-CSS-2a9df4" /> <img src="https://img.shields.io/badge/-JavaScript-FFD700" /> <img src="https://img.shields.io/badge/-C-03254c"/> <img src="https://img.shields.io/badge/-UX-8A2BE2"/> 
+<img src="https://img.shields.io/badge/-HTML-D2691E" /> <img src="https://img.shields.io/badge/-CSS-2a9df4" /> <img src="https://img.shields.io/badge/-JavaScript-FFD700" /> <img src="https://img.shields.io/badge/-C-03254c"/> <img src="https://img.shields.io/badge/-UX-8A2BE2"/> <img src="https://img.shields.io/badge/-Typescript-FFD700"/> <img src="https://img.shields.io/badge/-ReactJS-2a9df4"/> <img src="https://img.shields.io/badge/-ReactNative-2a9ddd"/> 
 
 ##
 
