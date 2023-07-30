@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Hey! :wave::crescent_moon:</h2>
 
 
-### <samp>  I'm Alanna Paiva, a 23 years old, Computer Engineering at Federal University of Ceará </samp>
+### <samp>  I'm Alanna Paiva, a 24 years old, Computer Engineering at Federal University of Ceará </samp>
 
 <samp> Also as a Jazz dancer in my spare time </samp>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alannapaiva" alt="alanna" /></p> -->
@@ -49,8 +49,3 @@ You can also find me on...
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-paiva-b26881169/)](https://www.linkedin.com/in/alanna-paiva-b26881169/)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=flat-square&logo=CodePen&logoColor=white&link=https://codepen.io/paivalanna)](https://codepen.io/paivalanna)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alannapaiva1@hotmail.com)](mailto:alannapaiva6@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alannapaivaa/)](https://www.instagram.com/alannapaivaa/)
-
-
-
-
