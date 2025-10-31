@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Hey! :wave::crescent_moon:</h2>
 
 
-###   I'm Alanna Paiva, a 25 years old, Computer Engineering at Federal University of Ceará 
+###   I'm Alanna Paiva, a 26 years old, Computer Engineer from Federal University of Ceará 
 
 <samp> Also as a Jazz dancer in my spare time </samp>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alannapaiva" alt="alanna" /></p> -->
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ###
  
 - :dart: My main focus is in web and mobile development
-- :books: I'm currently studying JavaScript, Typescript, HTML5, CSS3, ReactJS, React Native, NodeJS and Python.
+- :books: I'm currently studying JavaScript, Typescript, HTML5, CSS3, ReactJS, React Native, Angular, Vue, NextJS NodeJS and Python.
 - 💬 I like watching k-dramas, movies and read.
 <!-- [Website](https://alannapaiva.github.io/site_pessoal_2020/) 💻 - Working on it. -->
 
